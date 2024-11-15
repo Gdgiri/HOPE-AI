@@ -66,3 +66,19 @@ The relationship between AI and Python can be understood like this:
 - In the same way that a calculator is essential for complex math, Python provides the tools and libraries needed to implement and run AI algorithms effectively.
 
 ---
+
+### Traditional Method vs. AI Approach
+
+1. Traditional Method:  
+   - Imagine inventing a machine to identify and clear waste plastics from various places.  
+   - In this approach, you must **manually feed a large amount of data** about all types of plastics for the machine to recognize them.  
+   - If you miss even one type of plastic in the data, the machine will fail to identify and process those items.
+
+2. AI Approach:  
+   - With AI, you only need to feed **some sample data** about plastics.  
+   - AI systems can **learn automatically** to distinguish plastics and waste by analyzing the patterns in the data.  
+   - This process mimics human learning:
+     - For example, when your parents teach you as a child that certain items are plastic, you gradually learn to recognize plastics independently.  
+   - Similarly, AI learns from the initial data and improves its understanding over time without needing every single example to be fed manually.  
+
+In summary, **AI works like human learning**, making it more efficient and adaptable compared to traditional methods.
